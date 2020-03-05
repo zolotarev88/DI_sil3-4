@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-01092010-094042";"";
+"REFERENCE";"A-USB A-LP-C";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartTitle";"USB, style A, male";"";
+"TraceParts.InstanceId";"10-01092010-0940429DG63WTCJ56QEALHWIQRPXQOU";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"ASSMANN:/F_ASSMANN/ASSMANN.010/ASSMANN.010.090/10-01092010-094042";"";
+"SUPPLIER";"ASSMANN WSW components";"";
+"DESIGN";"USB, style A, male";"";
+"TraceParts.PartVersion";"1.1.3";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
