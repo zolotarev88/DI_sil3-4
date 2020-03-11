@@ -1,0 +1,76 @@
+Removed Member From Class: ClassName=U_485_1 Member=C18
+Removed Member From Class: ClassName=U_485_1 Member=C19
+Removed Member From Class: ClassName=U_485_1 Member=C20
+Removed Member From Class: ClassName=U_485_1 Member=C22
+Removed Member From Class: ClassName=U_485_1 Member=C25
+Removed Member From Class: ClassName=2out1_[1..4] Member=2out1_1
+Removed Member From Class: ClassName=2out1_[1..4] Member=2out1_2
+Removed Member From Class: ClassName=2out1_[1..4] Member=2out1_3
+Removed Member From Class: ClassName=2out1_[1..4] Member=2out1_4
+Removed Member From Class: ClassName=2out2_[1..4] Member=2out2_1
+Removed Member From Class: ClassName=2out2_[1..4] Member=2out2_2
+Removed Member From Class: ClassName=2out2_[1..4] Member=2out2_3
+Removed Member From Class: ClassName=2out2_[1..4] Member=2out2_4
+Removed Member From Class: ClassName=power Member=NetC7_2
+Added Component: Designator=XP1(TBUS8-25,0-PPPPPPSS-7035 - 2202895)
+Add component (AddParameter): Name = "Type"; Value = "TBUS8-25,0-PPPPPPSS-7035 - 2202895"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=2out1_1 Pin=C30-2
+Added Pin To Net: NetName=1out2_1 Pin=C33-2
+Added Pin To Net: NetName=2out2_2 Pin=C36-2
+Added Pin To Net: NetName=2out1_2 Pin=C38-2
+Added Pin To Net: NetName=1out2_3 Pin=C49-2
+Added Pin To Net: NetName=1out1_3 Pin=C50-2
+Added Pin To Net: NetName=2out2_4 Pin=C52-2
+Added Pin To Net: NetName=1out1_4 Pin=C58-2
+Added Pin To Net: NetName=2out1_1 Pin=R7-1
+Added Pin To Net: NetName=2out1_1 Pin=R11-1
+Added Pin To Net: NetName=1out2_1 Pin=R18-1
+Added Pin To Net: NetName=1out2_1 Pin=R23-1
+Added Pin To Net: NetName=2out1_2 Pin=R27-1
+Added Pin To Net: NetName=2out2_2 Pin=R28-1
+Added Pin To Net: NetName=2out1_2 Pin=R31-1
+Added Pin To Net: NetName=2out2_2 Pin=R33-1
+Added Pin To Net: NetName=1out1_3 Pin=R57-1
+Added Pin To Net: NetName=1out2_3 Pin=R58-1
+Added Pin To Net: NetName=1out1_3 Pin=R61-1
+Added Pin To Net: NetName=1out2_3 Pin=R63-1
+Added Pin To Net: NetName=2out2_4 Pin=R68-1
+Added Pin To Net: NetName=2out2_4 Pin=R73-1
+Added Pin To Net: NetName=1out1_4 Pin=R77-1
+Added Pin To Net: NetName=1out1_4 Pin=R81-1
+Added Pin To Net: NetName=485_1_P Pin=XP1-1
+Added Pin To Net: NetName=485_1_N Pin=XP1-2
+Added Pin To Net: NetName=485_2_P Pin=XP1-4
+Added Pin To Net: NetName=485_2_N Pin=XP1-5
+Change Net Name : Old Net Name=2out1_1 New Net Name=1out1_1
+Change Net Name : Old Net Name=2out1_2 New Net Name=1out1_2
+Change Net Name : Old Net Name=2out2_2 New Net Name=1out2_2
+Change Net Name : Old Net Name=2out2_4 New Net Name=1out2_4
+Added Member To Class: ClassName=U_485_1 Member=Component C1 (C38) 0.1u
+Added Member To Class: ClassName=U_485_1 Member=Component C2 (C39) 0.01u
+Added Member To Class: ClassName=U_485_1 Member=Component C3 (C40) 0.1u
+Added Member To Class: ClassName=U_485_1 Member=Component C4 (C41) 0.01u
+Added Member To Class: ClassName=U_485_1 Member=Component C5 (C42) NFM21CC102R1H3
+Added Member To Class: ClassName=U_485_1 Member=Component C7 (C44) NFM21CC102R1H3
+Added Member To Class: ClassName=U_485_1 Member=Component C8 (C45) Capacitor ceramic
+Added Member To Class: ClassName=U_485_1 Member=Component C10 (C47) 0.1u
+Added Member To Class: ClassName=U_485_1 Member=Component C12 (C49) Capacitor ceramic
+Added Member To Class: ClassName=U_485_1 Member=Component C13 (C50) Capacitor ceramic
+Added Member To Class: ClassName=U_485_2 Member=Component C14 (C38) 0.1u
+Added Member To Class: ClassName=U_indication Member=Component R101 (R40A) 220
+Added Member To Class: ClassName=U_indication Member=Component R102 (R40A) 220
+Added Member To Class: ClassName=U_indication Member=Component R104 (R40A) 220
+Added Member To Class: ClassName=U_indication Member=Component VD30 (VD18A) Diod_sv_L-7104F0
+Added Member To Class: ClassName=U_indication Member=Component VD34 (VD20A) Diod_sv_L-7104F0
+Added Member To Class: ClassName=U_indication Member=Component VD35 (VD20A) Diod_sv_L-7104F0
+Added Member To Class: ClassName=U_indication Member=Component VD36 (VD21A) Diod_sv_L-7104F0
+Added Member To Class: ClassName=Main Member=Component XP1 TBUS8-25,0-PPPPPPSS-7035 - 2202895
+Added Member To Class: ClassName=2out1_[1..4] Member=Element[0]: 1out1_
+Added Member To Class: ClassName=2out1_[1..4] Member=Element[1]: 1out1_
+Added Member To Class: ClassName=2out1_[1..4] Member=Element[2]: 1out1_
+Added Member To Class: ClassName=2out1_[1..4] Member=Element[3]: 1out1_
+Added Member To Class: ClassName=2out2_[1..4] Member=Element[0]: 1out2_
+Added Member To Class: ClassName=2out2_[1..4] Member=Element[1]: 1out2_
+Added Member To Class: ClassName=2out2_[1..4] Member=Element[2]: 1out2_
+Added Member To Class: ClassName=2out2_[1..4] Member=Element[3]: 1out2_
+Added Member To Class: ClassName=power Member=Wire NetC3_2
