@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=NetR95_8 Pin=VD25-1
+Removed Pin From Net: NetName=GND Pin=VD25-2
+Removed Pin From Net: NetName=NetR95_6 Pin=VD28-1
+Removed Pin From Net: NetName=GND Pin=VD28-2
+Removed Pin From Net: NetName=NetR95_5 Pin=VD30-1
+Removed Pin From Net: NetName=GND Pin=VD30-2
+Removed Pin From Net: NetName=NetR97_8 Pin=VD32-3
+Removed Pin From Net: NetName=NetR102_8 Pin=VD33-1
+Removed Pin From Net: NetName=GND Pin=VD33-2
+Removed Pin From Net: NetName=NetR97_7 Pin=VD34-3
+Removed Pin From Net: NetName=GND Pin=VD34-4
+Removed Pin From Net: NetName=NetR102_7 Pin=VD35-1
+Removed Pin From Net: NetName=GND Pin=VD35-2
+Removed Pin From Net: NetName=NetR97_6 Pin=VD36-3
+Removed Pin From Net: NetName=GND Pin=VD36-4
+Removed Pin From Net: NetName=NetR102_6 Pin=VD37-1
+Removed Pin From Net: NetName=GND Pin=VD37-2
+Removed Pin From Net: NetName=NetR102_5 Pin=VD38-1
+Removed Pin From Net: NetName=GND Pin=VD38-2
+Removed Pin From Net: NetName=NetR97_5 Pin=VD38-3
+Removed Pin From Net: NetName=GND Pin=VD38-4
+Removed Member From Class: ClassName=U_indication Member=VD33
+Removed Member From Class: ClassName=U_indication Member=VD34
+Removed Member From Class: ClassName=U_indication Member=VD35
+Removed Member From Class: ClassName=U_indication Member=VD36
+Removed Member From Class: ClassName=U_indication Member=VD37
+Removed Member From Class: ClassName=U_indication Member=VD38
+Change Component Designator: OldDesignator=VD26 NewDesignator=VD25
+Change Component Designator: OldDesignator=VD29 NewDesignator=VD28
+Change Component Designator: OldDesignator=VD31 NewDesignator=VD30
+Added Component: Designator=VD26(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Component: Designator=VD29(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Component: Designator=VD31(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR95_8 Pin=VD25-1
+Added Pin To Net: NetName=GND Pin=VD25-2
+Added Pin To Net: NetName=NetR97_8 Pin=VD26-1
+Added Pin To Net: NetName=GND Pin=VD26-2
+Added Pin To Net: NetName=NetR102_8 Pin=VD26-3
+Added Pin To Net: NetName=GND Pin=VD26-4
+Added Pin To Net: NetName=NetR95_6 Pin=VD28-1
+Added Pin To Net: NetName=GND Pin=VD28-2
+Added Pin To Net: NetName=NetR97_7 Pin=VD29-1
+Added Pin To Net: NetName=GND Pin=VD29-2
+Added Pin To Net: NetName=NetR102_7 Pin=VD29-3
+Added Pin To Net: NetName=GND Pin=VD29-4
+Added Pin To Net: NetName=NetR95_5 Pin=VD30-1
+Added Pin To Net: NetName=GND Pin=VD30-2
+Added Pin To Net: NetName=NetR97_6 Pin=VD31-1
+Added Pin To Net: NetName=GND Pin=VD31-2
+Added Pin To Net: NetName=NetR102_6 Pin=VD31-3
+Added Pin To Net: NetName=GND Pin=VD31-4
+Added Pin To Net: NetName=NetR97_5 Pin=VD32-1
+Added Pin To Net: NetName=GND Pin=VD32-2
+Added Pin To Net: NetName=NetR102_5 Pin=VD32-3
+Added Member To Class: ClassName=U_indication Member=Component R97 (R38A) 220
+Added Member To Class: ClassName=U_indication Member=Component R102 (R40A) 220

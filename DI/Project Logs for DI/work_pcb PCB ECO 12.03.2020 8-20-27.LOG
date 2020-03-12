@@ -1,0 +1,20 @@
+Added Pin To Net: NetName=1out2_4 Pin=DD5-19
+Added Pin To Net: NetName=1out1_4 Pin=DD5-20
+Added Pin To Net: NetName=1out2_3 Pin=DD5-25
+Added Pin To Net: NetName=1out1_3 Pin=DD5-41
+Added Pin To Net: NetName=1out2_2 Pin=DD5-42
+Added Pin To Net: NetName=1out1_2 Pin=DD5-43
+Added Pin To Net: NetName=1out2_1 Pin=DD5-45
+Added Pin To Net: NetName=1out1_1 Pin=DD5-46
+Added Pin To Net: NetName=1out2_4 Pin=DD6-19
+Added Pin To Net: NetName=1out1_4 Pin=DD6-20
+Added Pin To Net: NetName=1out2_3 Pin=DD6-25
+Added Pin To Net: NetName=1out1_3 Pin=DD6-41
+Added Pin To Net: NetName=1out2_2 Pin=DD6-42
+Added Pin To Net: NetName=1out1_2 Pin=DD6-43
+Added Pin To Net: NetName=1out2_1 Pin=DD6-45
+Added Pin To Net: NetName=1out1_1 Pin=DD6-46
+Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=Default
+Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=Default

@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=VD39 Old Footprint=SOD-123 New Footprint=sod-323
+Change Component Footprint: Designator=VD41 Old Footprint=SOD-123 New Footprint=sod-323
+Change Component Footprint: Designator=VD42 Old Footprint=SOD-123 New Footprint=sod-323
+Change Component Footprint: Designator=VD44 Old Footprint=SOD-123 New Footprint=sod-323
+Added Pin To Net: NetName=NetFU1_1 Pin=VD41-K
+Added Pin To Net: NetName=NetFU2_1 Pin=VD44-K

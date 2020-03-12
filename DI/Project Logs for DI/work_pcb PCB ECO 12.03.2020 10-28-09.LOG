@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetR95_1 Pin=R95-1
+Removed Pin From Net: NetName=NetR95_2 Pin=U1-1
+Removed Pin From Net: NetName=NetR95_3 Pin=U1-2
+Removed Pin From Net: NetName=NetR95_8 Pin=VD25-1
+Removed Pin From Net: NetName=NetR95_7 Pin=VD27-1
+Removed Pin From Net: NetName=NetR95_6 Pin=VD28-1
+Removed Pin From Net: NetName=NetR95_5 Pin=VD30-1
+Added Pin To Net: NetName=NetR95_1 Pin=R95-4
+Added Pin To Net: NetName=NetR95_3 Pin=U1-1
+Added Pin To Net: NetName=NetR95_2 Pin=U1-2
+Added Pin To Net: NetName=NetR95_5 Pin=VD25-1
+Added Pin To Net: NetName=NetR95_6 Pin=VD27-1
+Added Pin To Net: NetName=NetR95_7 Pin=VD28-1
+Added Pin To Net: NetName=NetR95_8 Pin=VD30-1
+Change Net Name : Old Net Name=NetR95_1 New Net Name=NetR95_4
+Added Pin To Net: NetName=NetR95_1 Pin=R95-1
+Added Pin To Net: NetName=NetR95_1 Pin=U1-3
+Added Net: Name=NetR95_1
+Added Member To Class: ClassName=U_indication Member=Component VD25 (VD15A) Diod_sv_L-7104F0
+Added Member To Class: ClassName=U_indication Member=Component VD26 (VD19A) Diod_sv_L-7104F0
+Added Member To Class: ClassName=U_indication Member=Component VD28 (VD17A) Diod_sv_L-7104F0
+Added Member To Class: ClassName=U_indication Member=Component VD29 (VD20A) Diod_sv_L-7104F0
+Added Member To Class: ClassName=U_indication Member=Component VD30 (VD18A) Diod_sv_L-7104F0
+Added Member To Class: ClassName=U_indication Member=Component VD31 (VD21A) Diod_sv_L-7104F0
+Added Room: Name=U_indication

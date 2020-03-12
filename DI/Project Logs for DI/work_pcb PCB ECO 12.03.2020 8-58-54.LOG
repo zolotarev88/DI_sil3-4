@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=NetR97_1 Pin=R97-1
+Removed Pin From Net: NetName=NetR97_2 Pin=R97-2
+Removed Pin From Net: NetName=NetR97_3 Pin=R97-3
+Removed Pin From Net: NetName=NetR97_6 Pin=R97-6
+Removed Pin From Net: NetName=NetR97_7 Pin=R97-7
+Removed Pin From Net: NetName=NetR97_8 Pin=R97-8
+Removed Pin From Net: NetName=NetR102_2 Pin=R102-2
+Removed Pin From Net: NetName=NetR102_7 Pin=R102-7
+Removed Member From Class: ClassName=U_indication Member=R96
+Removed Member From Class: ClassName=U_indication Member=R98
+Removed Member From Class: ClassName=U_indication Member=R99
+Removed Member From Class: ClassName=U_indication Member=R101
+Removed Member From Class: ClassName=U_indication Member=R103
+Removed Member From Class: ClassName=U_indication Member=R104
+Change Component Designator: OldDesignator=R98 NewDesignator=R97
+Change Component Designator: OldDesignator=R104 NewDesignator=R102
+Added Pin To Net: NetName=NetR97_1 Pin=R97-1
+Added Pin To Net: NetName=NetR97_2 Pin=R97-2
+Added Pin To Net: NetName=NetR97_3 Pin=R97-3
+Added Pin To Net: NetName=NetR97_6 Pin=R97-6
+Added Pin To Net: NetName=NetR97_7 Pin=R97-7
+Added Pin To Net: NetName=NetR97_8 Pin=R97-8
+Added Pin To Net: NetName=NetR102_2 Pin=R102-2
+Added Pin To Net: NetName=NetR102_7 Pin=R102-7
+Change Net Name : Old Net Name=NetR98_4 New Net Name=NetR97_4
+Change Net Name : Old Net Name=NetR98_5 New Net Name=NetR97_5
+Change Net Name : Old Net Name=NetR104_4 New Net Name=NetR102_4
+Change Net Name : Old Net Name=NetR104_5 New Net Name=NetR102_5
+Added Pin To Net: NetName=NetR95_3 Pin=R95-3
+Added Pin To Net: NetName=NetR95_3 Pin=U1-2
+Added Net: Name=NetR95_3
+Added Pin To Net: NetName=NetR95_6 Pin=R95-6
+Added Pin To Net: NetName=NetR95_6 Pin=VD28-1
+Added Net: Name=NetR95_6
+Added Pin To Net: NetName=NetR100_1 Pin=R100-1
+Added Pin To Net: NetName=NetR100_1 Pin=U2-15
+Added Net: Name=NetR100_1
+Added Pin To Net: NetName=NetR100_8 Pin=R100-8
+Added Pin To Net: NetName=NetR100_8 Pin=VD26-3
+Added Net: Name=NetR100_8
+Added Pin To Net: NetName=NetR102_1 Pin=R102-1
+Added Pin To Net: NetName=NetR102_1 Pin=U2-4
+Added Net: Name=NetR102_1
+Added Pin To Net: NetName=NetR102_3 Pin=R102-3
+Added Pin To Net: NetName=NetR102_3 Pin=U2-6
+Added Net: Name=NetR102_3
+Added Pin To Net: NetName=NetR102_6 Pin=R102-6
+Added Pin To Net: NetName=NetR102_6 Pin=VD37-1
+Added Net: Name=NetR102_6
+Added Pin To Net: NetName=NetR102_8 Pin=R102-8
+Added Pin To Net: NetName=NetR102_8 Pin=VD33-1
+Added Net: Name=NetR102_8

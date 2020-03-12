@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=24- Pin=R12-1
+Removed Pin From Net: NetName=NetC27_1 Pin=R12-2
+Removed Pin From Net: NetName=24- Pin=R16-1
+Removed Pin From Net: NetName=NetC29_1 Pin=R16-2
+Removed Pin From Net: NetName=24- Pin=R22-1
+Removed Pin From Net: NetName=NetC31_1 Pin=R22-2
+Removed Pin From Net: NetName=24- Pin=R26-1
+Removed Pin From Net: NetName=NetC32_1 Pin=R26-2
+Removed Pin From Net: NetName=24- Pin=R32-1
+Removed Pin From Net: NetName=NetC35_1 Pin=R32-2
+Removed Pin From Net: NetName=24- Pin=R36-1
+Removed Pin From Net: NetName=NetC37_1 Pin=R36-2
+Removed Pin From Net: NetName=24- Pin=R42-1
+Removed Pin From Net: NetName=NetC39_1 Pin=R42-2
+Removed Pin From Net: NetName=24- Pin=R46-1
+Removed Pin From Net: NetName=NetC40_1 Pin=R46-2
+Removed Pin From Net: NetName=24- Pin=R52-1
+Removed Pin From Net: NetName=NetC43_1 Pin=R52-2
+Removed Pin From Net: NetName=24- Pin=R56-1
+Removed Pin From Net: NetName=NetC45_1 Pin=R56-2
+Removed Pin From Net: NetName=24- Pin=R62-1
+Removed Pin From Net: NetName=NetC47_1 Pin=R62-2
+Removed Pin From Net: NetName=24- Pin=R66-1
+Removed Pin From Net: NetName=NetC48_1 Pin=R66-2
+Removed Pin From Net: NetName=24- Pin=R72-1
+Removed Pin From Net: NetName=NetC51_1 Pin=R72-2
+Removed Pin From Net: NetName=24- Pin=R76-1
+Removed Pin From Net: NetName=NetC53_1 Pin=R76-2
+Removed Pin From Net: NetName=24- Pin=R82-1
+Removed Pin From Net: NetName=NetC55_1 Pin=R82-2
+Removed Pin From Net: NetName=24- Pin=R86-1
+Removed Pin From Net: NetName=NetC56_1 Pin=R86-2
+Removed Member From Class: ClassName=DI_ch1 Member=R12
+Removed Member From Class: ClassName=DI_ch1 Member=R16
+Removed Member From Class: ClassName=DI_ch1 Member=R22
+Removed Member From Class: ClassName=DI_ch1 Member=R26
+Removed Member From Class: ClassName=DI_ch2 Member=R32
+Removed Member From Class: ClassName=DI_ch2 Member=R36
+Removed Member From Class: ClassName=DI_ch2 Member=R42
+Removed Member From Class: ClassName=DI_ch2 Member=R46
+Removed Member From Class: ClassName=DI_ch3 Member=R52
+Removed Member From Class: ClassName=DI_ch3 Member=R56
+Removed Member From Class: ClassName=DI_ch3 Member=R62
+Removed Member From Class: ClassName=DI_ch3 Member=R66
+Removed Member From Class: ClassName=DI_ch4 Member=R72
+Removed Member From Class: ClassName=DI_ch4 Member=R76
+Removed Member From Class: ClassName=DI_ch4 Member=R82
+Removed Member From Class: ClassName=DI_ch4 Member=R86
+Change Component Comment : Designator=R10 Old Comment=3k New Comment=1.5k
+Change Component Comment : Designator=R15 Old Comment=3k New Comment=1.5k
+Change Component Comment : Designator=R20 Old Comment=3k New Comment=1.5k
+Change Component Comment : Designator=R25 Old Comment=3k New Comment=1.5k
+Change Component Comment : Designator=R30 Old Comment=3k New Comment=1.5k
+Change Component Comment : Designator=R35 Old Comment=3k New Comment=1.5k
+Change Component Comment : Designator=R40 Old Comment=3k New Comment=1.5k
+Change Component Comment : Designator=R45 Old Comment=3k New Comment=1.5k
+Change Component Comment : Designator=R50 Old Comment=3k New Comment=1.5k
+Change Component Comment : Designator=R55 Old Comment=3k New Comment=1.5k
+Change Component Comment : Designator=R60 Old Comment=3k New Comment=1.5k
+Change Component Comment : Designator=R65 Old Comment=3k New Comment=1.5k
+Change Component Comment : Designator=R70 Old Comment=3k New Comment=1.5k
+Change Component Comment : Designator=R75 Old Comment=3k New Comment=1.5k
+Change Component Comment : Designator=R80 Old Comment=3k New Comment=1.5k
+Change Component Comment : Designator=R85 Old Comment=3k New Comment=1.5k
+Added Room: Name=Main
+Added Room: Name=U_indication
