@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC66_1 Pin=ZL1-1
+Removed Pin From Net: NetName=NetC67_1 Pin=ZL1-2
+Removed Pin From Net: NetName=NetC78_1 Pin=ZL2-1
+Removed Pin From Net: NetName=NetC79_1 Pin=ZL2-2
+Removed Member From Class: ClassName=U_PROC1 Member=ZL1
+Removed Member From Class: ClassName=U_PROC2 Member=ZL2
+Added Component: Designator=ZL1_U_PROC1(zm206)
+Added Component: Designator=ZL1_U_PROC2(zm206)
+Added Pin To Net: NetName=NetC67_1 Pin=ZL1_U_PROC1-1
+Added Pin To Net: NetName=NetC66_1 Pin=ZL1_U_PROC1-2
+Added Pin To Net: NetName=NetC79_1 Pin=ZL1_U_PROC2-1
+Added Pin To Net: NetName=NetC78_1 Pin=ZL1_U_PROC2-2
+Added Member To Class: ClassName=U_PROC1 Member=Component ZL1_U_PROC1 (ZL1) KVARTZ_32
+Added Member To Class: ClassName=U_PROC2 Member=Component ZL1_U_PROC2 (ZL1) KVARTZ_32

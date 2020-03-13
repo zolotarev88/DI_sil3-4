@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=24+ Pin=DA9-4
+Removed Pin From Net: NetName=24+ Pin=DA10-4
+Removed Pin From Net: NetName=24+ Pin=Q1-2
+Removed Pin From Net: NetName=24- Pin=Q2-3
+Removed Pin From Net: NetName=24+ Pin=Q3-2
+Removed Pin From Net: NetName=24- Pin=Q4-3
+Removed Pin From Net: NetName=24- Pin=R89-1
+Removed Pin From Net: NetName=24- Pin=R90-1
+Removed Pin From Net: NetName=24- Pin=R93-1
+Removed Pin From Net: NetName=24- Pin=R94-1
+Added Pin To Net: NetName=NetFU3_1 Pin=DA9-4
+Added Pin To Net: NetName=NetFU3_1 Pin=DA10-4
+Added Pin To Net: NetName=NetFU3_1 Pin=Q1-2
+Added Pin To Net: NetName=NetVD47_K Pin=Q2-3
+Added Pin To Net: NetName=NetFU3_1 Pin=Q3-2
+Added Pin To Net: NetName=NetVD47_K Pin=Q4-3
+Added Pin To Net: NetName=NetVD47_K Pin=R89-1
+Added Pin To Net: NetName=NetVD47_K Pin=R90-1
+Added Pin To Net: NetName=NetVD47_K Pin=R93-1
+Added Pin To Net: NetName=NetVD47_K Pin=R94-1
+Change Net Name : Old Net Name=NetFU3_1 New Net Name=in24+
+Change Net Name : Old Net Name=NetVD47_K New Net Name=in24-

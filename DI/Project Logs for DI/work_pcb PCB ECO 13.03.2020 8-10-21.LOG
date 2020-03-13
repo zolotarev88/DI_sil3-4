@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetR2_8 Pin=R2-8
+Added Pin To Net: NetName=NetR2_8 Pin=VD4-1
+Added Net: Name=NetR2_8
+Added Pin To Net: NetName=NetR5_8 Pin=R5-8
+Added Pin To Net: NetName=NetR5_8 Pin=VD8-1
+Added Net: Name=NetR5_8
+Added Member To Class: ClassName=U_485_1 Member=Component R2 (R42A) 220

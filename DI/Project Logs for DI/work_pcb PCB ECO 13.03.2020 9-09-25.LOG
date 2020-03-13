@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetC87_1 Pin=R122-1
+Removed Pin From Net: NetName=NetC98_1 Pin=R122-2
+Removed Member From Class: ClassName=U_suply_1w Member=R122
+Change Component Comment : Designator=R124 Old Comment=3k New Comment=1.5k
