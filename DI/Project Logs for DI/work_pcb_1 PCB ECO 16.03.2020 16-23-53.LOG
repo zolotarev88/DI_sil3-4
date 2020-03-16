@@ -1,0 +1,183 @@
+Removed Member From Class: ClassName=in[1..8] Member=1out1_1
+Removed Member From Class: ClassName=in[1..8] Member=1out1_2
+Removed Member From Class: ClassName=in[1..8] Member=1out1_3
+Removed Member From Class: ClassName=in[1..8] Member=1out1_4
+Removed Member From Class: ClassName=in[1..8] Member=1out2_1
+Removed Member From Class: ClassName=in[1..8] Member=1out2_2
+Removed Member From Class: ClassName=in[1..8] Member=1out2_3
+Removed Member From Class: ClassName=in[1..8] Member=1out2_4
+Removed Member From Class: ClassName=_in[1..8] Member=2out1_1
+Removed Member From Class: ClassName=_in[1..8] Member=2out1_2
+Removed Member From Class: ClassName=_in[1..8] Member=2out1_3
+Removed Member From Class: ClassName=_in[1..8] Member=2out1_4
+Removed Member From Class: ClassName=_in[1..8] Member=2out2_1
+Removed Member From Class: ClassName=_in[1..8] Member=2out2_2
+Removed Member From Class: ClassName=_in[1..8] Member=2out2_3
+Removed Member From Class: ClassName=_in[1..8] Member=2out2_4
+Change component parameters: Designator = "C8"; Footprint = "C0805_"; UniqueID = "\PLMSLLZO\UIQLRZKE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10u x 16В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9"; Footprint = "C0805_"; UniqueID = "\PLMSLLZO\BOYLRDKI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10u x 16В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12"; Footprint = "C1206_"; UniqueID = "\PLMSLLZO\RWPQAREI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220p x 2000В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220p"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "2000В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13"; Footprint = "C1206_"; UniqueID = "\PLMSLLZO\VRCONVNY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1000p x 2000В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1000p"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "2000В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21"; Footprint = "C0805_"; UniqueID = "\FOBXCQCQ\UIQLRZKE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10u x 16В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22"; Footprint = "C0805_"; UniqueID = "\FOBXCQCQ\BOYLRDKI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10u x 16В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25"; Footprint = "C1206_"; UniqueID = "\FOBXCQCQ\RWPQAREI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220p x 2000В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220p"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "2000В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26"; Footprint = "C1206_"; UniqueID = "\FOBXCQCQ\VRCONVNY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1000p x 2000В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1000p"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "2000В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C87"; Footprint = "C1206_"; UniqueID = "\CDGDCMFN\CQTGUECQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10u x 100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C88"; Footprint = "C1206_"; UniqueID = "\CDGDCMFN\TOCTCCCF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10u x 100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C89"; Footprint = "C0603"; UniqueID = "\CDGDCMFN\EJYAUPVB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1u x 50 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C90"; Footprint = "C1206_"; UniqueID = "\CDGDCMFN\JZPBKULC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10u x 100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C91"; Footprint = "C0603"; UniqueID = "\CDGDCMFN\RXTCMVFE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1u x 50v"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50v"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C93"; Footprint = "C0603"; UniqueID = "\CDGDCMFN\ABYBUVAS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10u x 25 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C94"; Footprint = "rad_cap_10х12"; UniqueID = "\CDGDCMFN\OLNVNITV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220uF x 63 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Параметры"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "5\res\Справочники\Конденсаторы\KEM_A4003_EXV.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "63v"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Famile"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "Radial, Can - SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarization"; Value = "Polar"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "63 В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C95"; Footprint = "rad_cap_10х12"; UniqueID = "\CDGDCMFN\CMIGHCVC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220uF x 63 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Параметры"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "5\res\Справочники\Конденсаторы\KEM_A4003_EXV.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "63v"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Famile"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "Radial, Can - SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarization"; Value = "Polar"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "63 В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C97"; Footprint = "C0603"; UniqueID = "\CDGDCMFN\LPHANLDC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10u x 25 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=1out1_1 New Net Name=in1
+Change Net Name : Old Net Name=1out1_2 New Net Name=in3
+Change Net Name : Old Net Name=1out1_3 New Net Name=in5
+Change Net Name : Old Net Name=1out1_4 New Net Name=in7
+Change Net Name : Old Net Name=1out2_1 New Net Name=in2
+Change Net Name : Old Net Name=1out2_2 New Net Name=in4
+Change Net Name : Old Net Name=1out2_3 New Net Name=in6
+Change Net Name : Old Net Name=1out2_4 New Net Name=in8
+Change Net Name : Old Net Name=2out1_1 New Net Name=_in1
+Change Net Name : Old Net Name=2out1_2 New Net Name=_in3
+Change Net Name : Old Net Name=2out1_3 New Net Name=_in5
+Change Net Name : Old Net Name=2out1_4 New Net Name=_in7
+Change Net Name : Old Net Name=2out2_1 New Net Name=_in2
+Change Net Name : Old Net Name=2out2_2 New Net Name=_in4
+Change Net Name : Old Net Name=2out2_3 New Net Name=_in6
+Change Net Name : Old Net Name=2out2_4 New Net Name=_in8
+Added Pin To Net: NetName=NetDD6_22 Pin=DD6-22
+Added Net: Name=NetDD6_22
+Added Member To Class: ClassName=_in[1..8] Member=Element[1]: 2out1_1
+Added Member To Class: ClassName=_in[1..8] Member=Element[2]: 2out2_1
+Added Member To Class: ClassName=_in[1..8] Member=Element[3]: 2out1_2
+Added Member To Class: ClassName=_in[1..8] Member=Element[4]: 2out2_2
+Added Member To Class: ClassName=_in[1..8] Member=Element[5]: 2out1_3
+Added Member To Class: ClassName=_in[1..8] Member=Element[6]: 2out2_3
+Added Member To Class: ClassName=_in[1..8] Member=Element[7]: 2out1_4
+Added Member To Class: ClassName=_in[1..8] Member=Element[8]: 2out2_4
+Added Member To Class: ClassName=in[1..8] Member=Element[1]: 1out1_1
+Added Member To Class: ClassName=in[1..8] Member=Element[2]: 1out2_1
+Added Member To Class: ClassName=in[1..8] Member=Element[3]: 1out1_2
+Added Member To Class: ClassName=in[1..8] Member=Element[4]: 1out2_2
+Added Member To Class: ClassName=in[1..8] Member=Element[5]: 1out1_3
+Added Member To Class: ClassName=in[1..8] Member=Element[6]: 1out2_3
+Added Member To Class: ClassName=in[1..8] Member=Element[7]: 1out1_4
+Added Member To Class: ClassName=in[1..8] Member=Element[8]: 1out2_4
