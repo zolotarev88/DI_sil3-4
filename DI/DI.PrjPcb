@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DGMNKWEA
+DocumentUniqueId=EWDCYEXG
 
 [Document5]
 DocumentPath=AD_LIB_npcprom\pre_MICROCIRCUITRY.PcbLib
@@ -137,7 +137,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WTHFIXNK
+DocumentUniqueId=GUOPRYRF
 
 [Document7]
 DocumentPath=AD_LIB_npcprom\Current Sensors.SchLib
@@ -154,7 +154,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TUVEMTAL
+DocumentUniqueId=WYMCTTNS
 
 [Document8]
 DocumentPath=AD_LIB_npcprom\DDS.SchLib
@@ -171,7 +171,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SAUHLXCU
+DocumentUniqueId=BBNZEZZR
 
 [Document9]
 DocumentPath=AD_LIB_npcprom\Digital Isolators.SchLib
@@ -188,7 +188,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FNWYBHDQ
+DocumentUniqueId=EPHWYSXL
 
 [Document10]
 DocumentPath=AD_LIB_npcprom\Diode.PcbLib
@@ -239,7 +239,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CWVFVHPN
+DocumentUniqueId=OAPGVGTK
 
 [Document13]
 DocumentPath=AD_LIB_npcprom\Fuse.PcbLib
@@ -273,7 +273,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DIZRFVAT
+DocumentUniqueId=SCTNOVIZ
 
 [Document15]
 DocumentPath=AD_LIB_npcprom\Interface_Transceiver.SchLib
@@ -290,7 +290,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LDFJHZKL
+DocumentUniqueId=ZUPNXWLD
 
 [Document16]
 DocumentPath=AD_LIB_npcprom\Logic (1).SchLib
@@ -307,7 +307,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KVKWDGQS
+DocumentUniqueId=SJNRMCWO
 
 [Document17]
 DocumentPath=AD_LIB_npcprom\Logic.SchLib
@@ -324,7 +324,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MKGOTIRT
+DocumentUniqueId=VVFXYUVM
 
 [Document18]
 DocumentPath=AD_LIB_npcprom\Memory_EEPROM.SchLib
@@ -341,7 +341,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CSMAPMQS
+DocumentUniqueId=JDEMPKOD
 
 [Document19]
 DocumentPath=AD_LIB_npcprom\Memory_SDRAM.SchLib
@@ -358,7 +358,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ABTZWEMJ
+DocumentUniqueId=YKYYRYNA
 
 [Document20]
 DocumentPath=AD_LIB_npcprom\Memory_SFLASH.SchLib
@@ -375,7 +375,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OPULKVKQ
+DocumentUniqueId=LQNYGKXG
 
 [Document21]
 DocumentPath=AD_LIB_npcprom\Microcontroller.SchLib
@@ -392,7 +392,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TYAEJVKQ
+DocumentUniqueId=QBUQHLVM
 
 [Document22]
 DocumentPath=AD_LIB_npcprom\my_pcb_lib.PcbLib
@@ -443,7 +443,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FVXLTBUO
+DocumentUniqueId=OQLXRVOW
 
 [Document25]
 DocumentPath=AD_LIB_npcprom\Oscillators.SchLib
@@ -460,7 +460,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PINRVNQJ
+DocumentUniqueId=ZTZLOMPH
 
 [Document26]
 DocumentPath=AD_LIB_npcprom\Power_switches.SchLib
@@ -477,7 +477,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ADSZVKPK
+DocumentUniqueId=ASBUDYOI
 
 [Document27]
 DocumentPath=AD_LIB_npcprom\pre_CAPACITOR.PcbLib
@@ -545,7 +545,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RGHEFTTM
+DocumentUniqueId=YOYIBXXS
 
 [Document31]
 DocumentPath=AD_LIB_npcprom\pre_INDUCTOR.PcbLib
@@ -579,7 +579,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RNOWXXUV
+DocumentUniqueId=ZVKPYLTB
 
 [Document33]
 DocumentPath=AD_LIB_npcprom\pre_POWERSOURCE.SchLib
@@ -630,7 +630,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SDIZWHSP
+DocumentUniqueId=KXUVXUYF
 
 [Document36]
 DocumentPath=AD_LIB_npcprom\Relay.PcbLib
@@ -664,7 +664,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JNNDBDPG
+DocumentUniqueId=EDINNLBE
 
 [Document38]
 DocumentPath=AD_LIB_npcprom\Surge_arrester.SchLib
@@ -681,7 +681,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FXFTBZCI
+DocumentUniqueId=NUZXUMEC
 
 [Document39]
 DocumentPath=AD_LIB_npcprom\Transformer - êîïèÿ.SchLib
@@ -698,7 +698,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SNIZIMWS
+DocumentUniqueId=WOIWOLIQ
 
 [Document40]
 DocumentPath=AD_LIB_npcprom\Transformer.PcbLib
@@ -732,7 +732,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TSGXTCCM
+DocumentUniqueId=HLUSSAOC
 
 [Document42]
 DocumentPath=AD_LIB_npcprom\TRANSISTOR.PcbLib
@@ -766,7 +766,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BQMSXCFG
+DocumentUniqueId=IUYMLJQX
 
 [Document44]
 DocumentPath=AD_LIB_npcprom\Voltage References.SchLib
@@ -783,7 +783,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XVEKOPJL
+DocumentUniqueId=PVDEGWRW
 
 [Document45]
 DocumentPath=AD_LIB_npcprom\Ðositioning_elements.PcbLib
@@ -817,7 +817,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YYCAAADP
+DocumentUniqueId=CPCWEHCP
 
 [Document47]
 DocumentPath=suply_1w.SchDoc
@@ -990,40 +990,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GJTQFJWT
 
 [Document57]
-DocumentPath=PCB.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JBLVYBNJ
-
-[Document58]
-DocumentPath=work_pcb.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JQHRIIBP
-
-[Document59]
 DocumentPath=AD_LIB_npcprom\ÅÐÊÔ.426477.005.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1040,7 +1006,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YOJSMCUQ
 
-[Document60]
+[Document58]
 DocumentPath=AD_LIB_npcprom\ÅÐÊÔ.426477.005.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1057,7 +1023,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNEBZTQW
 
-[Document61]
+[Document59]
 DocumentPath=AD_LIB_npcprom\ÅÐÊÔ.426477.005Ý3.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1072,9 +1038,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EGSUZHXY
+DocumentUniqueId=IBKNJBZF
 
-[Document62]
+[Document60]
 DocumentPath=PWM_OUT.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1091,7 +1057,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document63]
+[Document61]
 DocumentPath=Main.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1108,7 +1074,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document64]
+[Document62]
 DocumentPath=DI.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1125,8 +1091,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document65]
-DocumentPath=work_pcb_1.PcbDoc
+[Document63]
+DocumentPath=ÅÐÊÔ.758725.093Ä11_ÌÎÑÊ.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1451,6 +1417,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1512|FormHeight=975|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
