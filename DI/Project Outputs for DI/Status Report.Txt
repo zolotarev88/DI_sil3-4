@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [DI.PrjPcb]
+   Generated File[ละสิ.758725.093ฤ11_ฬฮัส.GTO]
+   Generated File[ละสิ.758725.093ฤ11_ฬฮัส.GTS]
+   Generated File[ละสิ.758725.093ฤ11_ฬฮัส.GTL]
+   Generated File[ละสิ.758725.093ฤ11_ฬฮัส.GBL]
+   Generated File[ละสิ.758725.093ฤ11_ฬฮัส.GBS]
+   Generated File[ละสิ.758725.093ฤ11_ฬฮัส.GBO]
+   Generated File[ละสิ.758725.093ฤ11_ฬฮัส.GM1]
+   Generated File[ละสิ.758725.093ฤ11_ฬฮัส.GKO]
+   Generated File[ละสิ.758725.093ฤ11_ฬฮัส.GD1]
+   Generated File[ละสิ.758725.093ฤ11_ฬฮัส.RUL]
+   Generated File[ละสิ.758725.093ฤ11_ฬฮัส.EXTREP]
+   Generated File[ละสิ.758725.093ฤ11_ฬฮัส.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 8:54:02 On 18.03.2020
