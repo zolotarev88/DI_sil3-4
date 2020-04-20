@@ -1109,23 +1109,6 @@ GenerateClassCluster=0
 DocumentUniqueId=RWQHVGHE
 
 [Document64]
-DocumentPath=Project Outputs for DI\drill.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document65]
 DocumentPath=Project Outputs for DI\layers.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1142,25 +1125,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document66]
-DocumentPath=Project Outputs for DI\dril__.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document67]
-DocumentPath=Project Outputs for DI\lay.Cam
+[Document65]
+DocumentPath=Project Outputs for DI\drill.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1177,70 +1143,66 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for DI\Design Rule Check - work_pcb.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for DI\ละสิ.758725.093ฤ11_ฬฮัส.DRL
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for DI\ละสิ.758725.093ฤ11_ฬฮัส.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for DI\ละสิ.758725.093ฤ11_ฬฮัส.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for DI\ละสิ.758725.093ฤ11_ฬฮัส.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for DI\ละสิ.758725.093ฤ11_ฬฮัส.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for DI\ละสิ.758725.093ฤ11_ฬฮัส.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for DI\ละสิ.758725.093ฤ11_ฬฮัส.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for DI\ละสิ.758725.093ฤ11_ฬฮัส.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for DI\ละสิ.758725.093ฤ11_ฬฮัส.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for DI\ละสิ.758725.093ฤ11_ฬฮัส.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for DI\ละสิ.758725.093ฤ11_ฬฮัส.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for DI\ละสิ.758725.093ฤ11_ฬฮัส.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for DI\ละสิ.758725.093ฤ11_ฬฮัส.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for DI\ละสิ.758725.093ฤ11_ฬฮัส.REP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for DI\ละสิ.758725.093ฤ11_ฬฮัส.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for DI\ละสิ.758725.093ฤ11_ฬฮัส.TXT
 DItemRevisionGUID=
 
