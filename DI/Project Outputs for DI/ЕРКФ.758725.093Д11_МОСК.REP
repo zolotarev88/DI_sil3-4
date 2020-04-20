@@ -2,17 +2,147 @@
 FileName = ละสิ.758725.093ฤ11_ฬฮัส.GBR
 AutoAperture = True
 *************************************************************
-Generating : Drill Drawing
-      File : ละสิ.758725.093ฤ11_ฬฮัส.GD1
+Generating : Board
+      File : ละสิ.758725.093ฤ11_ฬฮัส.GM1
 
-    Adding Drill Pair : Top-Bottom
-
-    Adding Layer      : Drill Drawing
+    Adding Layer      : Board
 
 
 Used DCodes :
-    D137
-    D138
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : ละสิ.758725.093ฤ11_ฬฮัส.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ละสิ.758725.093ฤ11_ฬฮัส.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D127
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ละสิ.758725.093ฤ11_ฬฮัส.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D52
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ละสิ.758725.093ฤ11_ฬฮัส.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ละสิ.758725.093ฤ11_ฬฮัส.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
 *************************************************************
 
 *************************************************************
@@ -97,65 +227,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Board
-      File : ละสิ.758725.093ฤ11_ฬฮัส.GM1
-
-    Adding Layer      : Board
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : ละสิ.758725.093ฤ11_ฬฮัส.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : ละสิ.758725.093ฤ11_ฬฮัส.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D127
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : ละสิ.758725.093ฤ11_ฬฮัส.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D27
-    D52
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-*************************************************************
-
-*************************************************************
 Generating : Bottom
       File : ละสิ.758725.093ฤ11_ฬฮัส.GBL
 
@@ -188,87 +259,16 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : ละสิ.758725.093ฤ11_ฬฮัส.GTO
+Generating : Drill Drawing
+      File : ละสิ.758725.093ฤ11_ฬฮัส.GD1
 
-    Adding Layer      : Top Overlay
+    Adding Drill Pair : Top-Bottom
 
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : ละสิ.758725.093ฤ11_ฬฮัส.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Drill Drawing
 
 
 Used DCodes :
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
+    D137
+    D138
 *************************************************************
 
