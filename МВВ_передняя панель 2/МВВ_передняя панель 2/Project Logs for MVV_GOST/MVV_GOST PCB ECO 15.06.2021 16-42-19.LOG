@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=NetDD1_32 Pin=DD1-32
+Added Pin To Net: NetName=NetDD1_32 Pin=R68-1
+Added Net: Name=NetDD1_32
+Added Pin To Net: NetName=NetDD1_33 Pin=DD1-33
+Added Pin To Net: NetName=NetDD1_33 Pin=R69-1
+Added Net: Name=NetDD1_33
+Added Pin To Net: NetName=NetDD2_32 Pin=DD2-32
+Added Pin To Net: NetName=NetDD2_32 Pin=R75-1
+Added Net: Name=NetDD2_32
+Added Pin To Net: NetName=NetDD2_33 Pin=DD2-33
+Added Pin To Net: NetName=NetDD2_33 Pin=R76-1
+Added Net: Name=NetDD2_33

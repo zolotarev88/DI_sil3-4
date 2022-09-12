@@ -1,0 +1,957 @@
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(C1206_)
+Add component (AddParameter): Name = "Capacitance"; Value = "1000p x 2000В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2000В"; VariantName = "[No Variations]"
+Added Component: Designator=C?(NFM21C)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(C1206_)
+Add component (AddParameter): Name = "Capacitance"; Value = "1000p x 2000В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2000В"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0805_)
+Add component (AddParameter): Name = "Capacitance"; Value = "10u x 16В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16В"; VariantName = "[No Variations]"
+Added Component: Designator=C?(NFM21C)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(NFM21C)
+Added Component: Designator=C?(C0805_)
+Add component (AddParameter): Name = "Capacitance"; Value = "10u x 16В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16В"; VariantName = "[No Variations]"
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(C1206_)
+Add component (AddParameter): Name = "Capacitance"; Value = "220p x 2000В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2000В"; VariantName = "[No Variations]"
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(NFM21C)
+Added Component: Designator=C?(NFM21C)
+Added Component: Designator=C?(NFM21C)
+Added Component: Designator=C?(C1206_)
+Add component (AddParameter): Name = "Capacitance"; Value = "220p x 2000В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2000В"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0805_)
+Add component (AddParameter): Name = "Capacitance"; Value = "10u x 16В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16В"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0805_)
+Add component (AddParameter): Name = "Capacitance"; Value = "10u x 16В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16В"; VariantName = "[No Variations]"
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(C1206_)
+Add component (AddParameter): Name = "Capacitance"; Value = "10u x 100 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(1206-cap)
+Added Component: Designator=C?(C1206_)
+Add component (AddParameter): Name = "Capacitance"; Value = "10u x 100 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "0.1u x 50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50v"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "0.1u x 50 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(0603_cap)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "10u x 25 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "10u x 25 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Added Component: Designator=C?(rad_cap_10х12)
+Add component (AddParameter): Name = "Capacitance"; Value = "220uF x 63 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Параметры"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "5\res\Справочники\Конденсаторы\KEM_A4003_EXV.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "63v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Famile"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "Radial, Can - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarization"; Value = "Polar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "63 В"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C1206_)
+Add component (AddParameter): Name = "Capacitance"; Value = "10u x 100 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(1206-cap)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(rad_cap_10х12)
+Add component (AddParameter): Name = "Capacitance"; Value = "220uF x 63 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Параметры"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "5\res\Справочники\Конденсаторы\KEM_A4003_EXV.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "63v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Famile"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "Radial, Can - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarization"; Value = "Polar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "63 В"; VariantName = "[No Variations]"
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(0603_cap)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(0603_cap)
+Added Component: Designator=C?(0603_cap)
+Added Component: Designator=C?(0603_cap)
+Added Component: Designator=C?(0603_cap)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(0603_cap)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(0603_cap)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(0603_cap)
+Added Component: Designator=C?(0603_cap)
+Added Component: Designator=C?(0603_cap)
+Added Component: Designator=C?(0603_cap)
+Added Component: Designator=C?(0603_cap)
+Added Component: Designator=C?(0603_cap)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(0603_cap)
+Added Component: Designator=C?(0603_cap)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=C?(0603_cap)
+Added Component: Designator=C?(cap_0402)
+Added Component: Designator=D?(SOIC_16IC_)
+Add component (AddParameter): Name = "Type"; Value = "ADM2682E"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SOIC_16IC_)
+Add component (AddParameter): Name = "Type"; Value = "ADM2682E"; VariantName = "[No Variations]"
+Added Component: Designator=DA?(SSOP-4N)
+Add component (AddParameter): Name = "Type"; Value = "PS2801C-1"; VariantName = "[No Variations]"
+Added Component: Designator=DA?(SSOP-4N)
+Add component (AddParameter): Name = "Type"; Value = "PS2801C-1"; VariantName = "[No Variations]"
+Added Component: Designator=DA?(SSOP-4N)
+Add component (AddParameter): Name = "Type"; Value = "PS2801C-1"; VariantName = "[No Variations]"
+Added Component: Designator=DA?(SSOP-4N)
+Add component (AddParameter): Name = "Type"; Value = "PS2801C-1"; VariantName = "[No Variations]"
+Added Component: Designator=DA?(SSOP-4N)
+Add component (AddParameter): Name = "Type"; Value = "PS2801C-1"; VariantName = "[No Variations]"
+Added Component: Designator=DA?(AM1D-2405)
+Added Component: Designator=DA?(AM1D-2405)
+Added Component: Designator=DA?(SO-8_optocup)
+Added Component: Designator=DA?(SO-8_optocup)
+Added Component: Designator=DA?(SO-8_optocup)
+Added Component: Designator=DA?(SO-8_optocup)
+Added Component: Designator=DA?(SO-8_optocup)
+Added Component: Designator=DA?(SO-8_optocup)
+Added Component: Designator=DA?(SO-8_optocup)
+Added Component: Designator=DA?(SO-8_optocup)
+Added Component: Designator=DD?(sot-23-5)
+Added Component: Designator=DD?(sot-23-5)
+Added Component: Designator=DD?(sot-23-5)
+Added Component: Designator=DD?(sot-23-5)
+Added Component: Designator=DD?(LQFP48)
+Added Component: Designator=DD?(LQFP48)
+Added Component: Designator=FU?(fuse1210)
+Added Component: Designator=FU?(fuse1210)
+Added Component: Designator=FU?(fuse1210)
+Added Component: Designator=L?(SRF0905)
+Add component (AddParameter): Name = "Value"; Value = "SRF0905-202Y"; VariantName = "[No Variations]"
+Added Component: Designator=L?(0603_ind)
+Added Component: Designator=L?(ifsc1515)
+Added Component: Designator=L?(0603_ind)
+Added Component: Designator=L?(ifsc1515)
+Added Component: Designator=L?(ifsc1515)
+Added Component: Designator=Q?(d-pak)
+Added Component: Designator=Q?(sot23)
+Added Component: Designator=Q?(sot23)
+Added Component: Designator=Q?(sot23)
+Added Component: Designator=Q?(d-pak)
+Added Component: Designator=Q?(sot23)
+Added Component: Designator=Q?(sot23)
+Added Component: Designator=R?(YC164)
+Added Component: Designator=R?(YC164)
+Added Component: Designator=R?(YC164)
+Added Component: Designator=R?(0805-res)
+Added Component: Designator=R?(YC164)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(YC164)
+Added Component: Designator=R?(YC164)
+Added Component: Designator=R?(YC164)
+Added Component: Designator=R?(YC164)
+Added Component: Designator=R?(0805-res)
+Added Component: Designator=R?(YC164)
+Added Component: Designator=R?(YC164)
+Added Component: Designator=R?(0805-res)
+Added Component: Designator=R?(0805-res)
+Added Component: Designator=R?(2512_res)
+Added Component: Designator=R?(YC164)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(YC164)
+Added Component: Designator=R?(0805-res)
+Added Component: Designator=R?(YC164)
+Added Component: Designator=R?(YC164)
+Added Component: Designator=R?(2512_res)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(0805-res)
+Added Component: Designator=R?(YC164)
+Added Component: Designator=R?(0805-res)
+Added Component: Designator=R?(YC164)
+Added Component: Designator=R?(YC164)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(0805-res)
+Added Component: Designator=R?(YC164)
+Added Component: Designator=R?(0805-res)
+Added Component: Designator=R?(0805-res)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(YC164)
+Added Component: Designator=R?(YC164)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(0603_res)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(2512_res)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(0603_res)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(2512_res)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(0603_res)
+Added Component: Designator=R?(0603_res)
+Added Component: Designator=R?(0603_res)
+Added Component: Designator=R?(2512_res)
+Added Component: Designator=R?(0603_res)
+Added Component: Designator=R?(0603_res)
+Added Component: Designator=R?(0603_res)
+Added Component: Designator=R?(2512_res)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(0603_res)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(2512_res)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(0603_res)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(2512_res)
+Added Component: Designator=R?(2512_res)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(2512_res)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(0603_res)
+Added Component: Designator=R?(2512_res)
+Added Component: Designator=R?(2512_res)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(2512_res)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(2512_res)
+Added Component: Designator=R?(0603_res)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(2512_res)
+Added Component: Designator=R?(2512_res)
+Added Component: Designator=R?(2512_res)
+Added Component: Designator=R?(0603_res)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(2512_res)
+Added Component: Designator=R?(0603_res)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(2512_res)
+Added Component: Designator=R?(0603_res)
+Added Component: Designator=R?(0603_res)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(0603_res)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=R?(0603_res)
+Added Component: Designator=R?(res_0402)
+Added Component: Designator=U?(TSSOP16)
+Added Component: Designator=U?(TSSOP16)
+Added Component: Designator=U?(sot23)
+Added Component: Designator=U?(sot23)
+Added Component: Designator=VD?(SOD-123)
+Add component (AddParameter): Name = "Type"; Value = "P6SMB"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(sod-323)
+Added Component: Designator=VD?(SOD-123)
+Add component (AddParameter): Name = "Type"; Value = "P6SMB"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(sod-323)
+Added Component: Designator=VD?(SOD-123)
+Add component (AddParameter): Name = "Type"; Value = "P6SMB"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOD-123)
+Add component (AddParameter): Name = "Type"; Value = "P6SMB"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(sod-323)
+Added Component: Designator=VD?(SOD-123)
+Add component (AddParameter): Name = "Type"; Value = "P6SMB"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOD-123)
+Add component (AddParameter): Name = "Type"; Value = "P6SMB"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOD-123)
+Add component (AddParameter): Name = "Type"; Value = "P6SMB"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(sod-323)
+Added Component: Designator=VD?(SOD-123)
+Add component (AddParameter): Name = "Type"; Value = "P6SMB"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(L-7104_)
+Add component (AddParameter): Name = "Type"; Value = "L-7104F0"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOD-123)
+Added Component: Designator=VD?(SOD-123)
+Add component (AddParameter): Name = "Type"; Value = "PTVS33VS1UTR"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOD-123)
+Added Component: Designator=VD?(SOD-123)
+Added Component: Designator=VD?(sod-323)
+Added Component: Designator=VD?(sod-323)
+Added Component: Designator=VD?(sod-323)
+Added Component: Designator=VD?(sod-323)
+Added Component: Designator=VD?(sod-323)
+Added Component: Designator=VD?(sod-323)
+Added Component: Designator=VD?(sod-323)
+Added Component: Designator=VD?(sod-323)
+Added Component: Designator=VD?(sod-323)
+Added Component: Designator=VD?(sod-323)
+Added Component: Designator=VD?(sod-323)
+Added Component: Designator=VD?(sod-323)
+Added Component: Designator=VD?(sod-323)
+Added Component: Designator=VD?(sod-323)
+Added Component: Designator=VD?(sod-323)
+Added Component: Designator=VD?(sod-323)
+Added Component: Designator=VT?(sot-23-6)
+Added Component: Designator=X?(miniUSB)
+Added Component: Designator=X?(pls2x2.54)
+Added Component: Designator=X?(pls-4r)
+Added Component: Designator=X?(pls2x2.54)
+Added Component: Designator=X?(pls2x2.54)
+Added Component: Designator=X?(pls-4r)
+Added Component: Designator=X?(pls2x2.54)
+Added Component: Designator=X?(miniUSB)
+Added Component: Designator=X?(PLD6)
+Added Component: Designator=X?(PLD6)
+Added Component: Designator=ZL?(zm206)
+Added Component: Designator=ZL?(zm206)
+Added Component: Designator=ZQ?(ECX-53B-DU)
+Add component (AddParameter): Name = "Type"; Value = "24MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ZQ?(ECX-53B-DU)
+Add component (AddParameter): Name = "Type"; Value = "24MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=485_N Pin=D?-12
+Added Pin To Net: NetName=485_N Pin=D?-12
+Added Pin To Net: NetName=485_N Pin=D?-13
+Added Pin To Net: NetName=485_N Pin=D?-13
+Added Pin To Net: NetName=485_N Pin=VD?-K
+Added Pin To Net: NetName=485_N Pin=VD?-K
+Added Pin To Net: NetName=485_N Pin=VD?-K
+Added Pin To Net: NetName=485_N Pin=VD?-K
+Added Net: Name=485_N
+Added Pin To Net: NetName=485_P Pin=D?-11
+Added Pin To Net: NetName=485_P Pin=D?-11
+Added Pin To Net: NetName=485_P Pin=D?-14
+Added Pin To Net: NetName=485_P Pin=D?-14
+Added Pin To Net: NetName=485_P Pin=DA?-1
+Added Pin To Net: NetName=485_P Pin=DA?-1
+Added Pin To Net: NetName=485_P Pin=VD?-A
+Added Pin To Net: NetName=485_P Pin=VD?-A
+Added Pin To Net: NetName=485_P Pin=VD?-K
+Added Pin To Net: NetName=485_P Pin=VD?-K
+Added Net: Name=485_P
+Added Pin To Net: NetName=D_N Pin=DD?-32
+Added Pin To Net: NetName=D_N Pin=DD?-32
+Added Pin To Net: NetName=D_N Pin=R?-1
+Added Pin To Net: NetName=D_N Pin=R?-1
+Added Net: Name=D_N
+Added Pin To Net: NetName=D_P Pin=DD?-33
+Added Pin To Net: NetName=D_P Pin=DD?-33
+Added Pin To Net: NetName=D_P Pin=R?-1
+Added Pin To Net: NetName=D_P Pin=R?-1
+Added Net: Name=D_P
+Added Pin To Net: NetName=Du_N Pin=R?-2
+Added Pin To Net: NetName=Du_N Pin=R?-2
+Added Pin To Net: NetName=Du_N Pin=X?-2
+Added Pin To Net: NetName=Du_N Pin=X?-2
+Added Net: Name=Du_N
+Added Pin To Net: NetName=Du_P Pin=R?-2
+Added Pin To Net: NetName=Du_P Pin=R?-2
+Added Pin To Net: NetName=Du_P Pin=X?-3
+Added Pin To Net: NetName=Du_P Pin=X?-3
+Added Net: Name=Du_P
+Added Pin To Net: NetName=ERTH Pin=C?-1
+Added Pin To Net: NetName=ERTH Pin=C?-1
+Added Pin To Net: NetName=ERTH Pin=R?-1
+Added Pin To Net: NetName=ERTH Pin=R?-1
+Added Pin To Net: NetName=ERTH Pin=VD?-A
+Added Pin To Net: NetName=ERTH Pin=VD?-A
+Added Pin To Net: NetName=ERTH Pin=VD?-A
+Added Pin To Net: NetName=ERTH Pin=VD?-A
+Added Net: Name=ERTH
+Added Pin To Net: NetName=G1 Pin=VT?-2
+Added Net: Name=G1
+Added Pin To Net: NetName=G2 Pin=VT?-5
+Added Net: Name=G2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-3
+Added Pin To Net: NetName=GND Pin=C?-3
+Added Pin To Net: NetName=GND Pin=C?-3
+Added Pin To Net: NetName=GND Pin=C?-3
+Added Pin To Net: NetName=GND Pin=C?-3
+Added Pin To Net: NetName=GND Pin=C?-3
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-8
+Added Pin To Net: NetName=GND Pin=D?-8
+Added Pin To Net: NetName=GND Pin=DA?-3
+Added Pin To Net: NetName=GND Pin=DA?-5
+Added Pin To Net: NetName=GND Pin=DA?-5
+Added Pin To Net: NetName=GND Pin=DD?-3
+Added Pin To Net: NetName=GND Pin=DD?-3
+Added Pin To Net: NetName=GND Pin=DD?-3
+Added Pin To Net: NetName=GND Pin=DD?-3
+Added Pin To Net: NetName=GND Pin=DD?-8
+Added Pin To Net: NetName=GND Pin=DD?-8
+Added Pin To Net: NetName=GND Pin=DD?-23
+Added Pin To Net: NetName=GND Pin=DD?-23
+Added Pin To Net: NetName=GND Pin=DD?-35
+Added Pin To Net: NetName=GND Pin=DD?-35
+Added Pin To Net: NetName=GND Pin=DD?-47
+Added Pin To Net: NetName=GND Pin=DD?-47
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Pin To Net: NetName=GND Pin=VD?-2
+Added Pin To Net: NetName=GND Pin=VD?-2
+Added Pin To Net: NetName=GND Pin=VD?-2
+Added Pin To Net: NetName=GND Pin=VD?-2
+Added Pin To Net: NetName=GND Pin=VD?-2
+Added Pin To Net: NetName=GND Pin=VD?-2
+Added Pin To Net: NetName=GND Pin=VD?-2
+Added Pin To Net: NetName=GND Pin=VD?-2
+Added Pin To Net: NetName=GND Pin=VD?-2
+Added Pin To Net: NetName=GND Pin=VD?-2
+Added Pin To Net: NetName=GND Pin=VD?-4
+Added Pin To Net: NetName=GND Pin=VD?-4
+Added Pin To Net: NetName=GND Pin=VD?-4
+Added Pin To Net: NetName=GND Pin=VD?-4
+Added Pin To Net: NetName=GND Pin=VD?-4
+Added Pin To Net: NetName=GND Pin=VD?-4
+Added Pin To Net: NetName=GND Pin=VD?-4
+Added Pin To Net: NetName=GND Pin=VD?-4
+Added Pin To Net: NetName=GND Pin=VD?-4
+Added Pin To Net: NetName=GND Pin=VD?-4
+Added Pin To Net: NetName=GND Pin=VT?-4
+Added Pin To Net: NetName=GND Pin=X?-2
+Added Pin To Net: NetName=GND Pin=X?-2
+Added Pin To Net: NetName=GND Pin=X?-4
+Added Pin To Net: NetName=GND Pin=X?-4
+Added Pin To Net: NetName=GND Pin=X?-4
+Added Pin To Net: NetName=GND Pin=X?-4
+Added Pin To Net: NetName=GND Pin=X?-5
+Added Pin To Net: NetName=GND Pin=X?-5
+Added Pin To Net: NetName=GND Pin=X?-5
+Added Pin To Net: NetName=GND Pin=X?-5
+Added Pin To Net: NetName=GND Pin=X?-6
+Added Pin To Net: NetName=GND Pin=X?-6
+Added Pin To Net: NetName=GND Pin=X?-6
+Added Pin To Net: NetName=GND Pin=X?-6
+Added Pin To Net: NetName=GND Pin=X?-6
+Added Pin To Net: NetName=GND Pin=X?-6
+Added Pin To Net: NetName=GND Pin=X?-6
+Added Pin To Net: NetName=GND Pin=X?-6
+Added Pin To Net: NetName=GND Pin=X?-6
+Added Pin To Net: NetName=GND Pin=X?-6
+Added Pin To Net: NetName=GND Pin=X?-6
+Added Pin To Net: NetName=GND Pin=X?-6
+Added Pin To Net: NetName=GND Pin=X?-6
+Added Pin To Net: NetName=GND Pin=X?-6
+Added Pin To Net: NetName=GND Pin=ZQ?-2
+Added Pin To Net: NetName=GND Pin=ZQ?-2
+Added Pin To Net: NetName=GND Pin=ZQ?-4
+Added Pin To Net: NetName=GND Pin=ZQ?-4
+Added Net: Name=GND
+Added Pin To Net: NetName=in1 Pin=C?-2
+Added Pin To Net: NetName=in1 Pin=C?-2
+Added Pin To Net: NetName=in1 Pin=C?-2
+Added Pin To Net: NetName=in1 Pin=C?-2
+Added Pin To Net: NetName=in1 Pin=C?-2
+Added Pin To Net: NetName=in1 Pin=C?-2
+Added Pin To Net: NetName=in1 Pin=C?-2
+Added Pin To Net: NetName=in1 Pin=C?-2
+Added Pin To Net: NetName=in1 Pin=DA?-1
+Added Pin To Net: NetName=in1 Pin=DA?-1
+Added Pin To Net: NetName=in1 Pin=DA?-1
+Added Pin To Net: NetName=in1 Pin=DA?-1
+Added Pin To Net: NetName=in1 Pin=DA?-1
+Added Pin To Net: NetName=in1 Pin=DA?-1
+Added Pin To Net: NetName=in1 Pin=DA?-1
+Added Pin To Net: NetName=in1 Pin=DA?-1
+Added Pin To Net: NetName=in1 Pin=DD?-46
+Added Pin To Net: NetName=in1 Pin=DD?-46
+Added Pin To Net: NetName=in1 Pin=R?-2
+Added Pin To Net: NetName=in1 Pin=R?-2
+Added Pin To Net: NetName=in1 Pin=R?-2
+Added Pin To Net: NetName=in1 Pin=R?-2
+Added Pin To Net: NetName=in1 Pin=R?-2
+Added Pin To Net: NetName=in1 Pin=R?-2
+Added Pin To Net: NetName=in1 Pin=R?-2
+Added Pin To Net: NetName=in1 Pin=R?-2
+Added Pin To Net: NetName=in1 Pin=VD?-K
+Added Pin To Net: NetName=in1 Pin=VD?-K
+Added Pin To Net: NetName=in1 Pin=VD?-K
+Added Pin To Net: NetName=in1 Pin=VD?-K
+Added Pin To Net: NetName=in1 Pin=VD?-K
+Added Pin To Net: NetName=in1 Pin=VD?-K
+Added Pin To Net: NetName=in1 Pin=VD?-K
+Added Pin To Net: NetName=in1 Pin=VD?-K
+Added Net: Name=in1
+Added Pin To Net: NetName=in2 Pin=C?-2
+Added Pin To Net: NetName=in2 Pin=C?-2
+Added Pin To Net: NetName=in2 Pin=C?-2
+Added Pin To Net: NetName=in2 Pin=C?-2
+Added Pin To Net: NetName=in2 Pin=C?-2
+Added Pin To Net: NetName=in2 Pin=C?-2
+Added Pin To Net: NetName=in2 Pin=C?-2
+Added Pin To Net: NetName=in2 Pin=C?-2
+Added Pin To Net: NetName=in2 Pin=DA?-3
+Added Pin To Net: NetName=in2 Pin=DA?-3
+Added Pin To Net: NetName=in2 Pin=DA?-3
+Added Pin To Net: NetName=in2 Pin=DA?-3
+Added Pin To Net: NetName=in2 Pin=DA?-3
+Added Pin To Net: NetName=in2 Pin=DA?-3
+Added Pin To Net: NetName=in2 Pin=DA?-3
+Added Pin To Net: NetName=in2 Pin=DA?-3
+Added Pin To Net: NetName=in2 Pin=DD?-45
+Added Pin To Net: NetName=in2 Pin=DD?-45
+Added Pin To Net: NetName=in2 Pin=R?-2
+Added Pin To Net: NetName=in2 Pin=R?-2
+Added Pin To Net: NetName=in2 Pin=R?-2
+Added Pin To Net: NetName=in2 Pin=R?-2
+Added Pin To Net: NetName=in2 Pin=R?-2
+Added Pin To Net: NetName=in2 Pin=R?-2
+Added Pin To Net: NetName=in2 Pin=R?-2
+Added Pin To Net: NetName=in2 Pin=R?-2
+Added Pin To Net: NetName=in2 Pin=VD?-K
+Added Pin To Net: NetName=in2 Pin=VD?-K
+Added Pin To Net: NetName=in2 Pin=VD?-K
+Added Pin To Net: NetName=in2 Pin=VD?-K
+Added Pin To Net: NetName=in2 Pin=VD?-K
+Added Pin To Net: NetName=in2 Pin=VD?-K
+Added Pin To Net: NetName=in2 Pin=VD?-K
+Added Pin To Net: NetName=in2 Pin=VD?-K
+Added Net: Name=in2
+Added Pin To Net: NetName=in3 Pin=DD?-43
+Added Pin To Net: NetName=in3 Pin=DD?-43
+Added Net: Name=in3
+Added Pin To Net: NetName=in4 Pin=DD?-42
+Added Pin To Net: NetName=in4 Pin=DD?-42
+Added Net: Name=in4
+Added Pin To Net: NetName=in5 Pin=DD?-41
+Added Pin To Net: NetName=in5 Pin=DD?-41
+Added Net: Name=in5
+Added Pin To Net: NetName=in6 Pin=DD?-25
+Added Pin To Net: NetName=in6 Pin=DD?-25
+Added Net: Name=in6
+Added Pin To Net: NetName=in7 Pin=DD?-20
+Added Pin To Net: NetName=in7 Pin=DD?-20
+Added Net: Name=in7
+Added Pin To Net: NetName=in8 Pin=DD?-19
+Added Pin To Net: NetName=in8 Pin=DD?-19
+Added Net: Name=in8
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=DD?-1
+Added Pin To Net: NetName=NetC?_1 Pin=DD?-2
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetDA?_1 Pin=DA?-1
+Added Pin To Net: NetName=NetDA?_1 Pin=R?-2
+Added Net: Name=NetDA?_1
+Added Pin To Net: NetName=NetDA?_2 Pin=DA?-2
+Added Pin To Net: NetName=NetDA?_2 Pin=R?-2
+Added Net: Name=NetDA?_2
+Added Pin To Net: NetName=NetDA?_3 Pin=DA?-3
+Added Pin To Net: NetName=NetDA?_3 Pin=R?-2
+Added Net: Name=NetDA?_3
+Added Pin To Net: NetName=NetDA?_4 Pin=DA?-4
+Added Pin To Net: NetName=NetDA?_4 Pin=R?-2
+Added Net: Name=NetDA?_4
+Added Pin To Net: NetName=NetDA?_5 Pin=DA?-5
+Added Pin To Net: NetName=NetDA?_5 Pin=DA?-5
+Added Pin To Net: NetName=NetDA?_5 Pin=DA?-5
+Added Pin To Net: NetName=NetDA?_5 Pin=DA?-5
+Added Pin To Net: NetName=NetDA?_5 Pin=DA?-5
+Added Pin To Net: NetName=NetDA?_5 Pin=DA?-5
+Added Pin To Net: NetName=NetDA?_5 Pin=DA?-5
+Added Pin To Net: NetName=NetDA?_5 Pin=DA?-5
+Added Pin To Net: NetName=NetDA?_5 Pin=DA?-7
+Added Pin To Net: NetName=NetDA?_5 Pin=DA?-7
+Added Pin To Net: NetName=NetDA?_5 Pin=DA?-7
+Added Pin To Net: NetName=NetDA?_5 Pin=DA?-7
+Added Pin To Net: NetName=NetDA?_5 Pin=DA?-7
+Added Pin To Net: NetName=NetDA?_5 Pin=DA?-7
+Added Pin To Net: NetName=NetDA?_5 Pin=DA?-7
+Added Pin To Net: NetName=NetDA?_5 Pin=DA?-7
+Added Net: Name=NetDA?_5
+Added Pin To Net: NetName=NetDA?_6 Pin=DA?-6
+Added Pin To Net: NetName=NetDA?_6 Pin=R?-2
+Added Net: Name=NetDA?_6
+Added Pin To Net: NetName=NetDA?_8 Pin=DA?-8
+Added Pin To Net: NetName=NetDA?_8 Pin=R?-2
+Added Net: Name=NetDA?_8
+Added Pin To Net: NetName=NetDD?_2 Pin=DD?-2
+Added Pin To Net: NetName=NetDD?_2 Pin=DD?-2
+Added Net: Name=NetDD?_2
+Added Pin To Net: NetName=NetDD?_4 Pin=DD?-4
+Added Pin To Net: NetName=NetDD?_4 Pin=R?-1
+Added Net: Name=NetDD?_4
+Added Pin To Net: NetName=NetDD?_12 Pin=DD?-12
+Added Pin To Net: NetName=NetDD?_12 Pin=DD?-12
+Added Net: Name=NetDD?_12
+Added Pin To Net: NetName=NetDD?_14 Pin=DD?-14
+Added Pin To Net: NetName=NetDD?_14 Pin=DD?-14
+Added Pin To Net: NetName=NetDD?_14 Pin=R?-1
+Added Pin To Net: NetName=NetDD?_14 Pin=R?-1
+Added Net: Name=NetDD?_14
+Added Pin To Net: NetName=NetDD?_16 Pin=DD?-16
+Added Pin To Net: NetName=NetDD?_16 Pin=X?-3
+Added Net: Name=NetDD?_16
+Added Pin To Net: NetName=NetDD?_17 Pin=DD?-17
+Added Pin To Net: NetName=NetDD?_17 Pin=X?-2
+Added Net: Name=NetDD?_17
+Added Pin To Net: NetName=NetDD?_18 Pin=DD?-18
+Added Pin To Net: NetName=NetDD?_18 Pin=X?-1
+Added Net: Name=NetDD?_18
+Added Pin To Net: NetName=NetDD?_26 Pin=DD?-26
+Added Pin To Net: NetName=NetDD?_26 Pin=DD?-26
+Added Net: Name=NetDD?_26
+Added Pin To Net: NetName=NetDD?_27 Pin=DD?-27
+Added Pin To Net: NetName=NetDD?_27 Pin=DD?-27
+Added Net: Name=NetDD?_27
+Added Pin To Net: NetName=NetDD?_28 Pin=DD?-28
+Added Pin To Net: NetName=NetDD?_28 Pin=DD?-28
+Added Net: Name=NetDD?_28
+Added Pin To Net: NetName=NetDD?_29 Pin=DD?-29
+Added Pin To Net: NetName=NetDD?_29 Pin=DD?-29
+Added Net: Name=NetDD?_29
+Added Pin To Net: NetName=NetDD?_30 Pin=DD?-30
+Added Pin To Net: NetName=NetDD?_30 Pin=X?-2
+Added Net: Name=NetDD?_30
+Added Pin To Net: NetName=NetDD?_31 Pin=DD?-31
+Added Pin To Net: NetName=NetDD?_31 Pin=X?-1
+Added Net: Name=NetDD?_31
+Added Pin To Net: NetName=NetDD?_34 Pin=DD?-34
+Added Pin To Net: NetName=NetDD?_34 Pin=X?-3
+Added Net: Name=NetDD?_34
+Added Pin To Net: NetName=NetDD?_37 Pin=DD?-37
+Added Pin To Net: NetName=NetDD?_37 Pin=X?-1
+Added Net: Name=NetDD?_37
+Added Pin To Net: NetName=NetDD?_38 Pin=DD?-38
+Added Pin To Net: NetName=NetDD?_38 Pin=R?-1
+Added Net: Name=NetDD?_38
+Added Pin To Net: NetName=NetDD?_39 Pin=DD?-39
+Added Pin To Net: NetName=NetDD?_39 Pin=DD?-39
+Added Net: Name=NetDD?_39
+Added Pin To Net: NetName=NetDD?_40 Pin=DD?-40
+Added Pin To Net: NetName=NetDD?_40 Pin=DD?-40
+Added Net: Name=NetDD?_40
+Added Pin To Net: NetName=NetDD?_44 Pin=DD?-44
+Added Pin To Net: NetName=NetDD?_44 Pin=R?-2
+Added Pin To Net: NetName=NetDD?_44 Pin=X?-2
+Added Net: Name=NetDD?_44
+Added Pin To Net: NetName=NetFU?_1 Pin=FU?-1
+Added Pin To Net: NetName=NetFU?_1 Pin=Q?-2
+Added Pin To Net: NetName=NetFU?_1 Pin=VD?-A
+Added Pin To Net: NetName=NetFU?_1 Pin=VD?-K
+Added Pin To Net: NetName=NetFU?_1 Pin=VD?-K
+Added Net: Name=NetFU?_1
+Added Pin To Net: NetName=NetFU?_2 Pin=FU?-2
+Added Net: Name=NetFU?_2
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-2
+Added Net: Name=NetQ?_1
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-3
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-3
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-1
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-1
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-1
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-1
+Added Net: Name=NetQ?_3
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetR?_3 Pin=R?-3
+Added Pin To Net: NetName=NetR?_3 Pin=U?-1
+Added Net: Name=NetR?_3
+Added Pin To Net: NetName=NetR?_4 Pin=R?-4
+Added Pin To Net: NetName=NetR?_4 Pin=U?-4
+Added Net: Name=NetR?_4
+Added Pin To Net: NetName=NetR?_5 Pin=R?-5
+Added Pin To Net: NetName=NetR?_5 Pin=VD?-3
+Added Net: Name=NetR?_5
+Added Pin To Net: NetName=NetR?_6 Pin=R?-6
+Added Pin To Net: NetName=NetR?_6 Pin=VD?-3
+Added Net: Name=NetR?_6
+Added Pin To Net: NetName=NetR?_7 Pin=R?-7
+Added Pin To Net: NetName=NetR?_7 Pin=VD?-3
+Added Net: Name=NetR?_7
+Added Pin To Net: NetName=NetR?_8 Pin=R?-8
+Added Pin To Net: NetName=NetR?_8 Pin=VD?-1
+Added Net: Name=NetR?_8
+Added Pin To Net: NetName=NetU?_11 Pin=U?-11
+Added Net: Name=NetU?_11
+Added Pin To Net: NetName=NetU?_12 Pin=U?-12
+Added Net: Name=NetU?_12
+Added Pin To Net: NetName=NetU?_14 Pin=U?-14
+Added Net: Name=NetU?_14
+Added Pin To Net: NetName=NetVD?_K Pin=VD?-K
+Added Net: Name=NetVD?_K
+Added Pin To Net: NetName=NetVT?_1 Pin=VT?-1
+Added Pin To Net: NetName=NetVT?_1 Pin=VT?-3
+Added Net: Name=NetVT?_1
+Added Pin To Net: NetName=res Pin=C?-1
+Added Pin To Net: NetName=res Pin=C?-1
+Added Pin To Net: NetName=res Pin=DD?-7
+Added Pin To Net: NetName=res Pin=DD?-7
+Added Pin To Net: NetName=res Pin=X?-4
+Added Pin To Net: NetName=res Pin=X?-4
+Added Net: Name=res
+Added Pin To Net: NetName=RX_485 Pin=DD?-11
+Added Pin To Net: NetName=RX_485 Pin=DD?-11
+Added Net: Name=RX_485
+Added Pin To Net: NetName=TX_485 Pin=DD?-10
+Added Pin To Net: NetName=TX_485 Pin=DD?-10
+Added Net: Name=TX_485
+Added Class: Name=Sheet1
+Added Class: Name=Sheet2
+Added Class: Name=Sheet3
+Added Class: Name=Hcur
+Added Class: Name=in[1..8]
+Added Class: Name=power
+Added Differential Pair: Name=D
+Added Differential Pair: Name=Du
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3
+Added Rule: Name=Schematic Width Constraint

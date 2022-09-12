@@ -1,13 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [DI.PrjPcb]
-   Generated File[ละสิ.758725.093ฤ11_ฬฮัส.TXT]
-   Generated File[ละสิ.758725.093ฤ11_ฬฮัส.DRL]
-   Generated File[ละสิ.758725.093ฤ11_ฬฮัส.LDP]
-   Generated File[ละสิ.758725.093ฤ11_ฬฮัส.DRR]
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [DI.PrjPcb]
+   Generated File[Pick Place for ละสิ.758725.093ฤ11_ฬฮัส.txt]
 
 
-Files Generated   : 4
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 16:19:42 On 20.04.2020
+Finished Output Generation At 11:47:22 On 20.09.2020

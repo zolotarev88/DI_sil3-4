@@ -1,0 +1,31 @@
+Added Component: Designator=X1(pxc_2203902)
+Added Component: Designator=X2(pxc_2203902)
+Added Component: Designator=X3(pxc_2203902)
+Added Component: Designator=X14(pxc_2203903)
+Added Component: Designator=X15(pxc_2203903)
+Added Pin To Net: NetName=IN1_1 Pin=X1-1
+Added Pin To Net: NetName=IN2_1 Pin=X1-2
+Added Pin To Net: NetName=IN1_2 Pin=X1-3
+Added Pin To Net: NetName=IN2_2 Pin=X1-4
+Added Pin To Net: NetName=IN1_3 Pin=X2-1
+Added Pin To Net: NetName=IN2_3 Pin=X2-2
+Added Pin To Net: NetName=IN1_4 Pin=X2-3
+Added Pin To Net: NetName=IN2_4 Pin=X2-4
+Added Pin To Net: NetName=in24+ Pin=X3-1
+Added Pin To Net: NetName=in24+ Pin=X3-2
+Added Pin To Net: NetName=in24- Pin=X3-3
+Added Pin To Net: NetName=in24- Pin=X3-4
+Added Pin To Net: NetName=485_1_P Pin=X14-1
+Added Pin To Net: NetName=485_1_N Pin=X14-2
+Added Pin To Net: NetName=485_2_P Pin=X14-3
+Added Pin To Net: NetName=485_2_N Pin=X14-4
+Added Pin To Net: NetName=out1_to_X Pin=X15-1
+Added Pin To Net: NetName=out1_to_X Pin=X15-2
+Added Pin To Net: NetName=out2_to_X Pin=X15-3
+Added Pin To Net: NetName=out2_to_X Pin=X15-4
+Added Member To Class: ClassName=Sheet1 Member=Component DA1 MOCD217M
+Added Member To Class: ClassName=Sheet1 Member=Component X1 pxc_2203902/3
+Added Member To Class: ClassName=Sheet1 Member=Component X2 pxc_2203902/3
+Added Member To Class: ClassName=Sheet2 Member=Component X3 pxc_2203902/3
+Added Member To Class: ClassName=Sheet3 Member=Component X14 pxc_2203902/3
+Added Member To Class: ClassName=Sheet3 Member=Component X15 pxc_2203902/3
